@@ -1,0 +1,21 @@
+{
+  "name": "screenshot-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "next-screenshot": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "dependencies": {
+    "puppeteer": "^24.3.0"
+  }
+}
